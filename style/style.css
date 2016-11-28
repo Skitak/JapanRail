@@ -1,0 +1,15 @@
+/*@keyframe slideIn {
+	from  {
+		background-image : #00000000;
+	}
+	100%  {
+		background-image : #00000000;
+	
+	}
+}*/
+
+.test {
+	height: 300px;
+	width : 500px;
+	background-color: red;
+}
