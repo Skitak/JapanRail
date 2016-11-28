@@ -1,0 +1,13 @@
+#mainframe {
+	border: 1px black solid;
+	padding: 5px 10px;
+	margin: 5% 15%;
+}
+
+#mainframe .part .subt {
+	font-weight: bold;
+}
+
+#mainframe .part .texte {
+	padding-bottom: 45px;
+}
