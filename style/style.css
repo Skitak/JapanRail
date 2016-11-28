@@ -1,15 +1,19 @@
-/*@keyframe slideIn {
-	from  {
-		background-image : #00000000;
+@keyframes slideIn {
+    0%   {
+		background-color: rgba(0,0,0,0);
+		transition : 
 	}
-	100%  {
-		background-image : #00000000;
-	
+	50%  {
+		background-color : rgba (0,0,0,0.5);
 	}
-}*/
-
+    100% {
+		background-color: rgba (0,0,0,1);
+	}
+}
 .test {
 	height: 300px;
 	width : 500px;
-	background-color: red;
+	background-color: rgba(200,0,0, 1);
+	animation-name: slideIn;
+	animation-duration: 2s;
 }
