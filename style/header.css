@@ -1,0 +1,20 @@
+header{
+	display: flex;
+	justify-content: center;
+	background-color: #FFBED5;
+	height: 124px;
+	position : relative;
+	top: -8px;
+	left: -8px;
+	width: 102%;
+}
+
+#teterose {
+	width : 800px;
+	display: flex;
+	justify-content: space-between;
+}
+
+#teterose img {
+	height: 124px;
+}
