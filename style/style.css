@@ -17,3 +17,8 @@
 	animation-name: slideIn;
 	animation-duration: 2s;
 }
+#flex
+{
+    display: flex;
+    flex-wrap: wrap;
+}
