@@ -1,21 +1,11 @@
-.test {
+/*.test {
 	height: 300px;
 	width : 500px;
 	background-color: rgba(200,0,0, 1);
 	animation-name: slideIn;
 	animation-duration: 2s;
-}
+}*/
 
-#flex
-{
-    display: flex;
-	flex-direction : row;
-    flex-wrap: wrap;
-	width : 100%;
-	justify-content : space-between;
-	align-item : start;
-	
-}
 
 body {
 	background-color : #81efce;
@@ -46,20 +36,23 @@ body {
 	align-items : center;
 	font-style : italic;
 	font-family: lucida;
-	font-size : 36px;
+	font-size : 21px;
 	letter-spacing : 4px;
 	line-height : 54px;
 }
 
 #page #accueil mark{
 	background-color : white;
+	font-size : 36px;
 }
 
 #page article {
+	font-family: 'lucida', 'roboto', 'oswald',impact;
 	width: 90%;
 	font-style : italic;
 	line-height : 30px;
 	letter-spacing : 2px;
+	font-size : 20px;
 	margin-top : 40px;
 	margin-bottom : 40px;
 }
