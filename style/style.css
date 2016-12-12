@@ -1,15 +1,3 @@
-@keyframes slideIn {
-    0%   {
-		background-color: rgba(0,0,0,0);
-		transition : 
-	}
-	50%  {
-		background-color : rgba (0,0,0,0.5);
-	}
-    100% {
-		background-color: rgba (0,0,0,1);
-	}
-}
 .test {
 	height: 300px;
 	width : 500px;
@@ -29,6 +17,29 @@
 	
 }
 
-section{
-	/*Poisson !*/
+body {
+	background-color : #81efce;
+	display : flex; 
+	flex-direction : column;
+	justify-content : center;
+	align-items : center;
+}
+
+#page{
+	background-color : rgba(255,255,255,0.6);
+	display : flex;
+	flex-direction : column;
+	justify-content : center;
+	align-item: center;
+	max-width : 800px;
+	min-height : 500px;
+}
+
+#page h1 {
+	background-color : white;
+	border-radius: 50%;
+}
+
+#page article {
+	background-color : green;
 }
