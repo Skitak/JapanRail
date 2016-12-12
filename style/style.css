@@ -30,16 +30,22 @@ body {
 	display : flex;
 	flex-direction : column;
 	justify-content : center;
-	align-item: center;
-	max-width : 800px;
+	align-items: center;
+	max-width : 1000px;
 	min-height : 500px;
 }
 
 #page h1 {
 	background-color : white;
 	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	display : flex;
+	flex-direction: column;
+	justify-content :center;
+	align-items : center;
 }
 
 #page article {
-	background-color : green;
+	width: 90%;
 }
