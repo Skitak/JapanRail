@@ -47,7 +47,7 @@ body {
 }
 
 #page article {
-	font-family: 'Arima Madurai', Roboto, Oswald, arial, impact;
+	font-family: Lucida,Arima, Roboto, Oswald, arial, impact;
 	width: 90%;
 	font-style : italic;
 	line-height : 30px;
