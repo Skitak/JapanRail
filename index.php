@@ -1,3 +1,4 @@
+<<<<<<< HEAD:index.php
 	<!DOCTYPE html>
 	<html>
 		<head>
@@ -12,6 +13,21 @@
 		</head>
 		
 		<body>
+=======
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+		<link rel="stylesheet" href="style/fonts.css" />
+		<link rel="stylesheet" href="style/style.css" />
+        <!--
+		<link rel="stylesheet" media="screen and (max-width: 1280px)" href="petite_resolution.css" />
+		-->
+		<title>Template site</title>
+    </head>
+	
+	<body>
+>>>>>>> beff22657e313eabf41f9bbff0ed894f091cd9cd:index.html
 		<section id="page">
 		
 			<?php include('include/header.html') ?>

@@ -1,14 +1,18 @@
 @font-face {
-	font-family: 'roboto';
-	src: url('Fonts\Roboto.ttf') format('ttf');
+	font-family: "Roboto";
+	src: url('Fonts/Roboto/Roboto.ttf');
 }
 
 @font-face {
-	font-family: 'oswald';
-	src: url('Fonts\Oswald-Regular.ttf') format('ttf');
+	font-family: "Arima";
+	src: url('Fonts/Arima/ArimaMadurai-Regular.ttf');
 }
 
 @font-face {
-	font-family: 'lucida';
-	src: url('lucida.ttf') format('ttf');
+	font-family: "Oswald";
+	src: url('Fonts/Oswald/Oswald-Regular.ttf');
 }
+
+
+
+

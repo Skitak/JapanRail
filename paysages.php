@@ -13,6 +13,7 @@
 		<section id="page">
 		
 			<header>
+				<?php include('./include/header.html') ?>
 			</header>
 			
 			<article>
@@ -20,7 +21,7 @@
 				<p>Le Japon est un pays magnifique.</p>
 				<p>Il a des paysages.</p>
 				<p>Et ils sont magnifiques.</p>
-				<p>Laissez-vous guider dans la découverta de ce pays extraordinaire.</p>
+				<p>Laissez-vous guider dans la découverte de ce pays extraordinaire.</p>
 				
 				<section class="basic">
 					<figure>
@@ -67,6 +68,7 @@
 			</article>
 			
 			<footer>
+				<?php include('./include/footer.html') ?>
 			</footer>
 			
 		</section>
