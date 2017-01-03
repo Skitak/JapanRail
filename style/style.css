@@ -63,7 +63,14 @@ body {
 
 .basic {
 	display : flex;
-	width: 90%;
+	align-self: center;
+	width: 100%;
+	margin-bottom : 50px;
+	align-items : center;
+}
+
+.basic:nth-child(even){
+	flex-direction : row-reverse;
 }
 
 .basic img {
