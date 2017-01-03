@@ -77,7 +77,7 @@
 		</div>
 		
 		
-		<?php require('footer') ?>
+		<?php require('include/footer.html') ?>
 	</body>
 
 </html>
