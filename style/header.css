@@ -23,9 +23,9 @@ header{
 	display: flex;
 	flex-direction: row;
 	padding: 60px 0 0 0;
+	border-bottom: 1px solid black;
 }
 
 #teterose #menu ul li {
 	padding-right: 40px;
-	border-bottom: 1px solid black;
 }
