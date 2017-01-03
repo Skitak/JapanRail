@@ -13,6 +13,7 @@ body {
 	flex-direction : column;
 	justify-content : center;
 	align-items : center;
+	color : #535B58;
 }
 
 #page{
@@ -23,6 +24,7 @@ body {
 	align-items: center;
 	width : 950px;
 	min-height : 500px;
+	
 }
 
 #page #accueil {
@@ -44,10 +46,12 @@ body {
 #page #accueil mark{
 	background-color : white;
 	font-size : 36px;
+	color : #535B58;
+	font-family : serif;
 }
 
 #page article {
-	font-family: 'Arima Madurai', Roboto, Oswald, arial, impact;
+	font-family: Arima, Roboto, Oswald, arial, impact;
 	width: 90%;
 	font-style : italic;
 	line-height : 30px;
@@ -55,4 +59,14 @@ body {
 	font-size : 20px;
 	margin-top : 40px;
 	margin-bottom : 40px;
+}
+
+.basic {
+	display : flex;
+	width: 90%;
+}
+
+.basic img {
+	width : 401px;
+	height : 217px;
 }
