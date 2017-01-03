@@ -1,11 +1,4 @@
-<html>
-	<head>
-		<!-- Commentaires... --->
-		<link rel="stylesheet" href="style/styleCm.css"/>
-		<title>Compagnies ferroviaires au japon</title>
-	</head>
-	<body>
-		<?php require('header') ?>
+		<?php require('include/header.html') ?>
 		
 		<div id="mainframe">
 			<div class="part">

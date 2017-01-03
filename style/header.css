@@ -22,9 +22,10 @@ header{
 #teterose #menu ul {
 	display: flex;
 	flex-direction: row;
-	padding: 80px 0 0 0;
+	padding: 60px 0 0 0;
 }
 
 #teterose #menu ul li {
 	padding-right: 40px;
+	border-bottom: 1px solid black;
 }
