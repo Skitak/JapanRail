@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8" />
+			<link rel="stylesheet" href="style/fonts.css" />
+			<link rel="stylesheet" href="style/style.css" />
+			<link rel="stylesheet" href="style/header.css"/>
+			<!--
+			<link rel="stylesheet" media="screen and (max-width: 1280px)" href="petite_resolution.css" />
+			-->
+			<title>Template site</title>
+		</head>
+		
+		<body>
 		<?php require('include/header.html') ?>
 		
 		<div id="mainframe">
