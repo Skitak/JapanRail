@@ -17,7 +17,7 @@
 			</header>
 			
 			<article>
-				<h1 id="titre">Les paysages de le Japon </h1>
+				<h1 id="titre">Les paysages du Japon </h1>
 				<p>Le Japon est un pays magnifique.</p>
 				<p>Il a des paysages.</p>
 				<p>Et ils sont magnifiques.</p>

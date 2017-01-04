@@ -16,9 +16,9 @@
 		
 			<?php include('include/header.html') ?>
 			
-			<h1 id="accueil">Bienvenue <br>sur <br> <mark>Japan Rail</mark> </h1>
+			<h1 class="accueil">Bienvenue <br>sur <br> <mark>Japan Rail</mark> </h1>
 			
-			<article>
+			<article class="accueil">
 			Ici, vous trouverez de nombreux voyages en train au Japon.
 			<br>
 			Nous vous expliquerons tout de la nourriture, aux compagnies qui s’occuperont de vous pendant vos séjours.
