@@ -6,9 +6,8 @@
 	animation-duration: 2s;
 }*/
 
-
 body {
-	background-color : #d2efe3;
+	background-color : #d0e5de;
 	display : flex; 
 	flex-direction : column;
 	justify-content : center;
@@ -22,40 +21,42 @@ body {
 	flex-direction : column;
 	justify-content : flex-start;
 	align-items: center;
-	width : 950px;
-	min-height: 900px;
-	
+	width : 880px;
+  margin-top : 100px;
+  padding-top: 30px;
+  border-radius: 0px 0px 20px 20px;
 }
 
 #page h1[class=accueil]{
 	background-color : white;
 	border-radius: 50%;
-	width: 350px;
-	height: 350px;
+	width: 300px;
+	height: 300px;
 	display : flex;
 	flex-direction: column;
 	justify-content :center;
 	align-items : center;
 	font-style : italic;
 	font-size : 21px;
+  font-weight : normal;
 	letter-spacing : 4px;
 	line-height : 54px;
-	font-style : italic;
+  animation : appear 3s;
 }
 
 #page h1[class=accueil] mark{
 	background-color : white;
 	font-size : 36px;
-	color : #535B58;
 	font-family : serif;
+	color : #72858C;
 }
 
 #page article {
-	font-family: Arima, Roboto, Oswald, arial, impact;
+	font-family: serif, Roboto, Oswald, arial, impact;
+  font-style : italic;
 	width: 90%;
-	line-height : 30px;
-	letter-spacing : 2px;
-	font-size : 26px;
+	line-height : 50px;
+	font-size : 18px;
 	margin-top : 40px;
 	margin-bottom : 40px;
 }
@@ -84,6 +85,13 @@ body {
 	flex-direction : row-reverse;
 }
 
+.basic:nth-child(even) img{
+	animation : slideInRight 2s;
+}
+
+.basic:nth-child(odd) img{
+	animation : slideInLeft 2s;
+}
 .basic img {
 	width : 401px;
 	height : 217px;
