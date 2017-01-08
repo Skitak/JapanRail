@@ -1,21 +1,4 @@
-<html>
-    <head>
-        <meta charset="utf-8" />
-		<link rel="stylesheet" href="style/fonts.css" />
-        <link rel="stylesheet" href="style/style.css" />
-        <!--
-		<link rel="stylesheet" media="screen and (max-width: 1280px)" href="petite_resolution.css" />
-		-->
-		<title>Les paysages ou les sages du pays</title>
-    </head>
-	
-	<body>
-		<section id="page">
-		
-			<header>
-				<?php include('./include/header.html') ?>
-			</header>
-			
+<?php include('./include/header.html') ?>
 			<article>
 				<h1 id="titre">Japanese Food</h1>
 				<p>Pendant votre traversée du Japon, vous risquez de vouloir vous restaurer.
@@ -68,11 +51,4 @@
 					<p>Ramen : Le ramen est une soupe de nouilles faites avec un bouillon de poisson ou de viande.</p>
 				</section>
 			</article>
-			
-			<footer>
-				<?php include('./include/footer.html') ?>
-			</footer>
-			
-		</section>
-	</body>
-</html>
+<?php include('./include/footer.html') ?>

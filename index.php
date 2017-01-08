@@ -12,4 +12,6 @@
     En espérant que vous saurez apprécier l’ambiance apaisante du japon à l’instar de ce site.
 </article>
 
+<div></div>
+
 <?php include('include/footer.html') ?>	
