@@ -69,7 +69,7 @@
   </defs>
   <g
      id="g8"
-     transform="matrix(0.30968505,0,0,0.24752436,-39.936693,0.67150952)">
+     transform="matrix(0.30968505,0,0,0.24752436,-39.936693,0.67150952) scale(4.5)">
     <a href="#"><path
        id="JP-23"
        title="Aichi"
