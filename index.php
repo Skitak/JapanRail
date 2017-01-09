@@ -13,10 +13,10 @@
 </article>
 
 <div>
-<a class="sprite" href="./assets/spriteslink/datboi.gif"></a>
-<a class="sprite" href="./assets/spriteslink/datboi.gif"></a>
-<a class="sprite" href="./assets/spriteslink/datboi.gif"></a>
-<a class="sprite" href="./assets/spriteslink/datboi.gif"></a>
+<a class="sprite" href="./spriteslink/sprite1.php"></a>
+<a class="sprite" href="./spriteslink/sprite1.php"></a>
+<a class="sprite" href="./spriteslink/sprite1.php"></a>
+<a class="sprite" href="./spriteslink/sprite1.php"></a>
 
 </div>
 
