@@ -1,5 +1,3 @@
-
-
 body {
 	background-color : #d0e5de;
 	display : flex; 
@@ -117,10 +115,48 @@ body {
   flex-wrap: wrap;
 }
 
-.sprite:nth-child(1){
-	background: url("../assets/sprite_thumb_transport.png") 0 0;
+#page div {
+	padding-bottom: 50px;
+}
+
+.sprite {
+	display: inline-block;
+	background-image: url("../assets/sprite_thumb_transport.png");
+	background-repeat: no-repeat;
 	width: 50px;
 	height: 50px;
+}
+
+.sprite:nth-child(1) {
+	background-position: -1px -1px;
+}
+
+.sprite:nth-child(2) {
+	background-position: -52px -1px;
+}
+
+.sprite:nth-child(3) {
+	background-position: -103px -1px;
+}
+
+.sprite:nth-child(4) {
+	background-position: -154px -1px;
+}
+
+.sprite:nth-child(1):hover {
+	background-position: -1px -52px;
+}
+
+.sprite:nth-child(2):hover {
+	background-position: -52px -52px;
+}
+
+.sprite:nth-child(3):hover {
+	background-position: -103px -52px;
+}
+
+.sprite:nth-child(4):hover {
+	background-position: -154px -52px;
 }
 
 @media screen and (max-width: 850px) {
