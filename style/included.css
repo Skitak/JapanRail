@@ -5,6 +5,7 @@ header{
 	background-color: #ffc8db;
 	height: 124px;
 	position : fixed;
+	z-index: 1;
 	top: -8px;
 	left: -8px;
 	width: 102%;

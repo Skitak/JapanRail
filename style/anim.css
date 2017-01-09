@@ -9,7 +9,6 @@
 
 @keyframes slideInLeft {
     0%   {
-      z-index : -2;
       opacity : 0;
       transform: translateX(-200px);
 	}
@@ -22,7 +21,6 @@
 
 @keyframes slideInRight {
     0%   {
-      z-index : -2;
       opacity : 0;
       transform: translateX(200px);
 	}
