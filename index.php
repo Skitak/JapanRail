@@ -13,10 +13,10 @@
 </article>
 
 <div>
-<a  href="#"><img></a>
-<a  href="#"></a>
-<a  href="#"></a>
-<a href="#"></a>
+<a class="sprite" href="#"></a>
+<a class="sprite" href="#"></a>
+<a class="sprite" href="#"></a>
+<a class="sprite" href="#"></a>
 
 </div>
 
