@@ -9,6 +9,8 @@ body {
 
 #page{
 	background-color : rgba(255,255,255,0.6);
+	position: relative;
+	z-index: -2;
 	display : flex;
 	flex-direction : column;
 	justify-content : flex-start;
@@ -81,6 +83,7 @@ body {
 	letter-spacing : none;
 	font-family : Lobster;
 	line-height : normal;
+	
 }
 
 .basic:nth-child(even){
