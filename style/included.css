@@ -78,3 +78,15 @@ footer section h2 {
   color : #72858C;
   font-size: 1.8em;
 }
+
+@media screen and (max-width: 850px) {
+	#menu{
+		width: 100%;
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+	
+	header {
+		height: auto;
+	}
+}
